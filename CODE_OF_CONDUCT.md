@@ -1,2 +1,1 @@
-
-Our Pledge, Our Standards, Enforcement Responsabilities, Scope, Enforcement, Enforcement Guidelines and Attribution
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
